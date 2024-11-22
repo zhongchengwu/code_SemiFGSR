@@ -4,6 +4,3 @@
 - Copyright: Zhong-Cheng Wu, Gemine Vivone\*, Ting-Zhu Huang\*, Liang-Jian Deng
 
 - Homepage: https://zhongchengwu.github.io
-
-## Get started
-- Directly run: ``demo_SemiFGSR.m``

@@ -7,16 +7,3 @@
 
 ## Get started
 - Directly run: ``demo_SemiFGSR.m``
-
-## Citation
-```bibtex
-@Article{wu2024SemiFGSR,
-  title={Pansharpening via Semi-Framelet-Guided Sparse Reconstruction}, 
-  author={Wu, Zhong-Cheng and Vivone, Gemine and Huang, Ting-Zhu and Deng, Liang-Jian}, 
-  journal={Information Fusion},
-  volume={106},
-  number={},
-  pages={102297},
-  year={2024},
-}
-```

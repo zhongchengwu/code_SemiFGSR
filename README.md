@@ -6,7 +6,7 @@
 - Homepage: https://zhongchengwu.github.io
 
 ## Get started
-- Directly run: ``demo_SemiFGSR.m``.
+- Directly run: ``demo_SemiFGSR.m``
 
 ## Citation
 ```bibtex
